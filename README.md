@@ -1,2 +1,2 @@
-# AC-project-clone-10---Final-edit---Logo-Added-and-Files-Organized
+# My first video game made with Unity (Assassin's creed) 
 my first game project in Unity (Assassin's creed video game)
